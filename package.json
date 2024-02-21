@@ -1,7 +1,7 @@
 {
-  "name": "packageRepositoryUpdater",
+  "name": "update_package_json",
   "version": "1.0.0",
-  "description": "PackageRepositoryUpdater",
+  "description": "update_package_json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
